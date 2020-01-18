@@ -1,0 +1,26 @@
+{
+  "name": "template",
+  "version": "1.0.0",
+  "description": "Example NodeJS Project",
+  "main": "index.js",
+  "scripts": {
+    "test": "mocha",
+    "start": "node index.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/coatsnmore/node-template.git"
+  },
+  "keywords": [
+    "template"
+  ],
+  "author": "coatsnmore",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/coatsnmore/node-template/issues"
+  },
+  "homepage": "https://github.com/coatsnmore/node-template#readme",
+  "devDependencies": {
+    "mocha": "^7.0.0"
+  }
+}
