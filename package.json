@@ -21,6 +21,6 @@
   },
   "homepage": "https://github.com/coatsnmore/node-template#readme",
   "devDependencies": {
-    "mocha": "^7.0.0"
+    "mocha": "^7.2.0"
   }
 }
